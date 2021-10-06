@@ -61,7 +61,7 @@ function App() {
               value={URL}
               color="success"
               variant="standard"
-              label="Paste your youtube link here"
+              label="Paste your YouTube link here"
               onChange={(e) => setURL(e.target.value)}
             />
           </Grid>
